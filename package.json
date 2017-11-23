@@ -1,0 +1,14 @@
+{
+  "name": "web-of-distrust",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.8.0"
+  }
+}
