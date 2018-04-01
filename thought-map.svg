@@ -1,0 +1,1719 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-902 133 4044 3999" width="4044" height="3999">
+  <defs>
+    <radialGradient cx="0" cy="0" r="1" id="Gradient" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffc0c0"/>
+      <stop offset=".3618608" stop-color="#ffe0e0"/>
+      <stop offset="1" stop-color="white"/>
+    </radialGradient>
+    <radialGradient id="Obj_Gradient" xl:href="#Gradient" gradientTransform="translate(1341.6701 1469.5) scale(1230.8587)"/>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="19" panose-1="2 0 8 3 0 0 0 9 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="975.0061" descent="-216.99524" font-weight="700">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 8 3 0 0 0 9 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="975.0061" descent="-216.99524" font-weight="700">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="17" panose-1="2 0 8 3 0 0 0 9 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="975.0061" descent="-216.99524" font-weight="700">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="11" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="10" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Times" font-size="16" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="460.9375" cap-height="675.78125" ascent="750" descent="-250" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Times-Roman"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="17" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="20" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Times" font-size="16" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="-937.5" x-height="454.10156" cap-height="666.9922" ascent="750" descent="-250" font-style="italic" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Times-Italic"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 9 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="-750" x-height="517" cap-height="714" ascent="957.0007" descent="-212.99744" font-style="italic" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue-Italic"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="12" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.7.1 
+    <dc:date>2018-04-01 07:50:10 +0000</dc:date>
+  </metadata>
+  <g id="Modeling_Trust" fill-opacity="1" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill="none">
+    <title>Modeling Trust</title>
+    <rect fill="white" x="-902" y="133" width="4044" height="3999"/>
+    <g id="Modeling_Trust: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_274">
+        <rect x="493" y="578" width="1697.3402" height="1783" fill="url(#Obj_Gradient)"/>
+        <text transform="translate(498 1460.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="669.7901" y="15">The Hot Spot of Converging Important Concepts</tspan>
+        </text>
+      </g>
+      <g id="Line_272">
+        <line x1="341.99254" y1="1328.8008" x2="167.7296" y2="1481.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_271">
+        <rect x="-559" y="183.75" width="948" height="145.25" fill="#ffffc0"/>
+        <rect x="-559" y="183.75" width="948" height="145.25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_270">
+        <line x1="567.1207" y1="1530.8008" x2="449.0305" y2="1650.8008" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_269">
+        <rect x="780" y="262" width="237" height="67" fill="white"/>
+        <rect x="780" y="262" width="237" height="67" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(785 283.72443)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="19" font-weight="700" fill="black" x="37.5095" y="19">Redefining Value</tspan>
+        </text>
+      </g>
+      <g id="Graphic_268">
+        <rect x="-42.5" y="365.5625" width="173" height="88" fill="white"/>
+        <rect x="-42.5" y="365.5625" width="173" height="88" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-37.5 381.8905)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="10.22" y="15">The development of </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7.26" y="33.448">trust from a personal </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="39.868" y="51.895996">perspective</tspan>
+        </text>
+      </g>
+      <g id="Graphic_267">
+        <rect x="-18.5" y="478.5625" width="173" height="88" fill="white"/>
+        <rect x="-18.5" y="478.5625" width="173" height="88" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-13.5 485.6665)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="2.076" y="15">Biomimicry: Examples </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="8.164" y="33.448">of exploration, risk &amp; </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="10.964" y="51.895996">growth from around </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="58.972" y="70.34399">nature</tspan>
+        </text>
+      </g>
+      <g id="Graphic_266">
+        <rect x="-77.5" y="586.5625" width="138" height="55" fill="white"/>
+        <rect x="-77.5" y="586.5625" width="138" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-72.5 604.8385)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="23.984" y="15">Slime mold</tspan>
+        </text>
+      </g>
+      <g id="Graphic_265">
+        <rect x="171.5" y="353.5625" width="173" height="88" fill="white"/>
+        <rect x="171.5" y="353.5625" width="173" height="88" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(176.5 387.83044)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" x="34.092" y="16">Wtf is Trust?</tspan>
+        </text>
+      </g>
+      <g id="Graphic_264">
+        <rect x="73.5" y="606.5625" width="173" height="55" fill="white"/>
+        <rect x="73.5" y="606.5625" width="173" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(78.5 624.8385)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="13.628" y="15">Trust in Economics</tspan>
+        </text>
+      </g>
+      <g id="Graphic_263">
+        <rect x="189.5" y="674.5625" width="173" height="55" fill="white"/>
+        <rect x="189.5" y="674.5625" width="173" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(194.5 692.8385)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="27.42" y="15">Trust in Politics</tspan>
+        </text>
+      </g>
+      <g id="Line_262">
+        <line x1="780" y1="314.38276" x2="344.5" y2="383.7789" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_261">
+        <line x1="171.5" y1="402.41297" x2="130.5" y2="404.71203" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_260">
+        <line x1="191.12" y1="441.5625" x2="134.88" y2="478.5625" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_259">
+        <line x1="239.76744" y1="441.5625" x2="171.39535" y2="606.5625" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_258">
+        <line x1="260.601" y1="441.5625" x2="274.3744" y2="674.5625" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_257">
+        <line x1="31.213115" y1="566.5625" x2="14.491803" y2="586.5625" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_256">
+        <rect x="-256.5" y="398.5625" width="173" height="43" fill="white"/>
+        <rect x="-256.5" y="398.5625" width="173" height="43" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-251.5 410.8385)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="3.556" y="15">Sensory development</tspan>
+        </text>
+      </g>
+      <g id="Graphic_255">
+        <rect x="-325.5" y="456.5625" width="173" height="43" fill="white"/>
+        <rect x="-325.5" y="456.5625" width="173" height="43" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-320.5 468.8385)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="43.42" y="15">Linguistics</tspan>
+        </text>
+      </g>
+      <g id="Graphic_254">
+        <rect x="-314.5" y="523.5625" width="173" height="43" fill="white"/>
+        <rect x="-314.5" y="523.5625" width="173" height="43" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-309.5 535.8385)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="63.868" y="15">Faith</tspan>
+        </text>
+      </g>
+      <g id="Graphic_253">
+        <rect x="-263.5" y="594.1875" width="173" height="43" fill="white"/>
+        <rect x="-263.5" y="594.1875" width="173" height="43" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-258.5 606.4635)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="36.332" y="15">Socialization</tspan>
+        </text>
+      </g>
+      <g id="Line_252">
+        <line x1="-42.5" y1="413.80666" x2="-83.5" y2="415.81834" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_251">
+        <line x1="-42.5" y1="430.4998" x2="-152.5" y2="457.1252" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_250">
+        <line x1="-42.5" y1="452.6535" x2="-184.84133" y2="523.5625" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_249">
+        <line x1="-3.1752577" y1="453.5625" x2="-153.94845" y2="594.1875" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_248">
+        <rect x="607" y="708" width="173" height="88" fill="white"/>
+        <rect x="607" y="708" width="173" height="88" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(612 732.5359)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" x="7.148" y="16">Defining a Model of </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" x="62.38" y="35.46411">Trust</tspan>
+        </text>
+      </g>
+      <g id="Graphic_247">
+        <rect x="364" y="820.25" width="173" height="55" fill="white"/>
+        <rect x="364" y="820.25" width="173" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(369 838.526)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="31.564" y="15">“Trust is Risk”</tspan>
+        </text>
+      </g>
+      <g id="Graphic_246">
+        <rect x="119" y="883.3057" width="173" height="55" fill="white"/>
+        <rect x="119" y="883.3057" width="173" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(124 892.3577)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="14.98" y="15">P(Estimate(Cost)) * </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="11.724" y="33.448">P(Estimate(Benefit))</tspan>
+        </text>
+      </g>
+      <g id="Line_245">
+        <line x1="607" y1="786.08385" x2="520.2911" y2="820.25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_244">
+        <line x1="364" y1="870.0125" x2="292" y2="888.5432" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_243">
+        <line x1="883.4562" y1="329" x2="713.259" y2="708" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_242">
+        <rect x="607" y="1154.5" width="173" height="55" fill="white"/>
+        <rect x="607" y="1154.5" width="173" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(612 1171.2534)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="700" fill="black" x="19.943" y="17">Transitive Trust</tspan>
+        </text>
+      </g>
+      <g id="Line_241">
+        <line x1="693.5" y1="796" x2="693.5" y2="1154.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_240">
+        <rect x="170" y="1345.3008" width="173" height="78" fill="white"/>
+        <rect x="170" y="1345.3008" width="173" height="78" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(175 1356.6288)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="46.236" y="15">A trusts B</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="45.644" y="33.448">B trusts C</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="25.868" y="51.895996">ergo, A trusts B</tspan>
+        </text>
+      </g>
+      <g id="Graphic_239">
+        <rect x="-644.5" y="469.5625" width="264" height="47" fill="white"/>
+        <rect x="-644.5" y="469.5625" width="264" height="47" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-639.5 474.6145)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="5.52" y="15">https://www.youtube.com/watch?</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="68.28" y="33.448">v=eI4rNw6d7UY</tspan>
+        </text>
+      </g>
+      <g id="Line_238">
+        <line x1="-325.5" y1="482.80656" x2="-380.5" y2="485.823" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_237">
+        <rect x="519" y="1452.8008" width="173" height="78" fill="white"/>
+        <rect x="519" y="1452.8008" width="173" height="78" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(524 1473.3528)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="5.068" y="15">Normalized Weighted </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="64.012" y="33.448">Trust</tspan>
+        </text>
+      </g>
+      <g id="Graphic_236">
+        <rect x="300" y="1250.8008" width="173" height="78" fill="white"/>
+        <rect x="300" y="1250.8008" width="173" height="78" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(305 1280.5768)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="32.308" y="15">Boolean Trust</tspan>
+        </text>
+      </g>
+      <g id="Line_235">
+        <line x1="615.18424" y1="1209.5" x2="473" y2="1259.427" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_234">
+        <line x1="332.8492" y1="1328.8008" x2="310.1508" y2="1345.3008" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_233">
+        <rect x=".5" y="1258.3008" width="173" height="59" fill="white"/>
+        <rect x=".5" y="1258.3008" width="173" height="59" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(5.5 1278.5768)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="15.276" y="15">Capability Passing</tspan>
+        </text>
+      </g>
+      <g id="Line_232">
+        <line x1="300" y1="1289.2232" x2="173.5" y2="1288.3784" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_231">
+        <line x1="685.6885" y1="1209.5" x2="616.5781" y2="1452.8008" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_230">
+        <rect x="519" y="1553.8008" width="173" height="78" fill="white"/>
+        <rect x="519" y="1553.8008" width="173" height="78" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(524 1565.1288)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="27.116" y="15">A trusts B 50%</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="26.524" y="33.448">B trusts C 50%</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="8.972" y="51.895996">ergo A trusts B 25%</tspan>
+        </text>
+      </g>
+      <g id="Line_229">
+        <line x1="605.5" y1="1530.8008" x2="605.5" y2="1553.8008" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_228">
+        <rect x="777" y="1434.3008" width="173" height="135.19922" fill="white"/>
+        <rect x="777" y="1434.3008" width="173" height="135.19922" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(782 1451.6663)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" x="19.452" y="16">Fully Parametric </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" x="24.476" y="35.46411">Weighted Trust</tspan>
+          <tspan font-family="Helvetica Neue" font-size="11" font-weight="400" fill="black" x="2.2395" y="48.92822">The set of trust models that give </tspan>
+          <tspan font-family="Helvetica Neue" font-size="11" font-weight="400" fill="black" x="18.0355" y="61.23622">its issuer continuous, fully </tspan>
+          <tspan font-family="Helvetica Neue" font-size="11" font-weight="400" fill="black" x="14.675" y="73.54422">granular control of the trust </tspan>
+          <tspan font-family="Helvetica Neue" font-size="11" font-weight="400" fill="black" x="16.391" y="85.85222">issuance, redemption, and </tspan>
+          <tspan font-family="Helvetica Neue" font-size="11" font-weight="400" fill="black" x="54.3025" y="98.16022">revocation.</tspan>
+        </text>
+      </g>
+      <g id="Line_227">
+        <line x1="708.1139" y1="1209.5" x2="827.5765" y2="1434.3008" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_226">
+        <rect x="947" y="1912" width="272" height="78" fill="white"/>
+        <rect x="947" y="1912" width="272" height="78" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(952 1923.328)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="80.168" y="15">A trusts B 100</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="4.16" y="33.448">B trusts C 50 of own, 75 of A’s trust</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="82.392" y="51.895996">A trusts B 75.</tspan>
+        </text>
+      </g>
+      <g id="Graphic_225">
+        <rect x="1299" y="1803" width="173" height="102.5" fill="white"/>
+        <rect x="1299" y="1803" width="173" height="102.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1304 1816.3659)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" x="18.116" y="16">Semi Automated </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" x="24.476" y="35.46411">Weighted Trust</tspan>
+          <tspan font-family="Helvetica Neue" font-size="10" font-weight="400" fill="black" x="8.24" y="48.92822">The set of trust models that yield </tspan>
+          <tspan font-family="Helvetica Neue" font-size="10" font-weight="400" fill="black" x="6.015" y="61.20822">some amount of trust-issuance or </tspan>
+          <tspan font-family="Helvetica Neue" font-size="10" font-weight="400" fill="black" x="11.945" y="73.48822">redemption logic to algorithms.</tspan>
+        </text>
+      </g>
+      <g id="Graphic_224">
+        <rect x="92" y="744.9341" width="173" height="55" fill="white"/>
+        <rect x="92" y="744.9341" width="173" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(97 763.2101)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="2.82" y="15">Money as Social Trust</tspan>
+        </text>
+      </g>
+      <g id="Line_223">
+        <line x1="163.6767" y1="661.5625" x2="174.8233" y2="744.9341" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_222">
+        <line x1="237.89868" y1="729.5625" x2="216.60132" y2="744.9341" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_221">
+        <rect x="-393.5" y="655.0625" width="211" height="55" fill="white"/>
+        <rect x="-393.5" y="655.0625" width="211" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-388.5 673.3385)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="11.596" y="15">Permission to Comission</tspan>
+        </text>
+      </g>
+      <g id="Line_220">
+        <line x1="92" y1="755.7698" x2="-182.5" y2="702.88716" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_219">
+        <rect x="-337.5" y="731.8125" width="264" height="55" fill="white"/>
+        <rect x="-337.5" y="731.8125" width="264" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-332.5 750.0885)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="12.648" y="15">Source + Sink = Economic Flow</tspan>
+        </text>
+      </g>
+      <g id="Graphic_218">
+        <rect x="-632" y="989.4375" width="186" height="72" fill="white"/>
+        <rect x="-632" y="989.4375" width="186" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-627 1006.9895)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="13.648" y="15">War bonds + taxes = </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7.56" y="33.448">coersive war economy</tspan>
+        </text>
+      </g>
+      <g id="Line_217">
+        <line x1="92" y1="769.4783" x2="-73.5" y2="763.823" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_216">
+        <rect x="-813.5" y="1084.5625" width="249" height="55" fill="white"/>
+        <rect x="-813.5" y="1084.5625" width="249" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-808.5 1102.8385)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="14.596" y="15">See “Debt” by David Graeber</tspan>
+        </text>
+      </g>
+      <g id="Line_215">
+        <line x1="-601.33766" y1="1061.4375" x2="-641.38095" y2="1084.5625" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_214">
+        <rect x="1030" y="393" width="173" height="88" fill="white"/>
+        <rect x="1030" y="393" width="173" height="88" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1035 417.5359)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" x="40.324" y="16">Alternative </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" x="13.092" y="35.46411">Economic Models</tspan>
+        </text>
+      </g>
+      <g id="Line_213">
+        <line x1="950.1113" y1="329" x2="1048.712" y2="393" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_212">
+        <rect x="1174" y="1062.875" width="199" height="69.125" fill="#c0ffc0"/>
+        <rect x="1174" y="1062.875" width="199" height="69.125" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1179 1088.2135)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="68.724" y="15">Bancor</tspan>
+        </text>
+      </g>
+      <g id="Graphic_211">
+        <rect x="1389" y="901" width="173" height="55" fill="#c0ffc0"/>
+        <rect x="1389" y="901" width="173" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1394 919.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="41.508" y="15">Circles UBI</tspan>
+        </text>
+      </g>
+      <g id="Graphic_210">
+        <rect x="1975" y="1580.5" width="173" height="55" fill="#c0ffc0"/>
+        <rect x="1975" y="1580.5" width="173" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1980 1598.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="56.308" y="15">Puddle</tspan>
+        </text>
+      </g>
+      <g id="Graphic_209">
+        <rect x="1899.5" y="548.25" width="173" height="55" fill="#c0ffc0"/>
+        <rect x="1899.5" y="548.25" width="173" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1904.5 566.526)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="13.948" y="15">WeTrust / ROSCAs</tspan>
+        </text>
+      </g>
+      <g id="Graphic_208">
+        <rect x="2160" y="771.25" width="173" height="55" fill="#c0ffc0"/>
+        <rect x="2160" y="771.25" width="173" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2165 789.526)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="2.972" y="15">Ripple-style Trustlines</tspan>
+        </text>
+      </g>
+      <g id="Graphic_207">
+        <rect x="909" y="2769.0494" width="137" height="55" fill="#c0ffc0"/>
+        <rect x="909" y="2769.0494" width="137" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(914 2778.1014)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="13.428" y="15">OpenBazaar’s </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="20.38" y="33.448">Trust is Risk</tspan>
+        </text>
+      </g>
+      <g id="Graphic_205">
+        <rect x="2139.1953" y="419" width="173" height="55" fill="#c0ffc0"/>
+        <rect x="2139.1953" y="419" width="173" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2144.1953 437.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="66.092" y="15">Kiva</tspan>
+        </text>
+      </g>
+      <g id="Graphic_204">
+        <rect x="2139.1953" y="262" width="173" height="55" fill="#c0ffc0"/>
+        <rect x="2139.1953" y="262" width="173" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2144.1953 280.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="42.98" y="15">Kickstarter</tspan>
+        </text>
+      </g>
+      <g id="Graphic_203">
+        <rect x="1440" y="343.625" width="173" height="55" fill="#c0ffc0"/>
+        <rect x="1440" y="343.625" width="173" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1445 361.901)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="66.54" y="15">Geo</tspan>
+        </text>
+      </g>
+      <g id="Graphic_202">
+        <rect x="-27" y="2772.6552" width="173" height="55" fill="#c0ffc0"/>
+        <rect x="-27" y="2772.6552" width="173" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-22 2790.9312)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="48.46" y="15">InsurePal</tspan>
+        </text>
+      </g>
+      <g id="Graphic_201">
+        <rect x="1899.5" y="628.25" width="173" height="55" fill="#c0ffc0"/>
+        <rect x="1899.5" y="628.25" width="173" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1904.5 646.526)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="17.5" y="15">Building Societies</tspan>
+        </text>
+      </g>
+      <g id="Line_200">
+        <line x1="1203" y1="423.102" x2="1440" y2="385.023" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_198">
+        <rect x="1621" y="790" width="173" height="55" fill="#c0ffc0"/>
+        <rect x="1621" y="790" width="173" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1626 808.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="34.82" y="15">TimeBanking</tspan>
+        </text>
+      </g>
+      <g id="Graphic_197">
+        <rect x="1687.1953" y="372.875" width="173" height="55" fill="white"/>
+        <rect x="1687.1953" y="372.875" width="173" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1692.1953 391.151)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="32.596" y="15">MicroLending</tspan>
+        </text>
+      </g>
+      <g id="Graphic_196">
+        <rect x="-361.5" y="808.5625" width="186" height="83.25" fill="white"/>
+        <rect x="-361.5" y="808.5625" width="186" height="83.25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-356.5 831.7395)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="10.36" y="15">Initial Minting Assigns </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".592" y="33.448">Core Power to Economy</tspan>
+        </text>
+      </g>
+      <g id="Line_195">
+        <line x1="-224.56465" y1="786.8125" x2="-239.64305" y2="808.5625" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_194">
+        <rect x="-603.5" y="808.5625" width="186" height="83.25" fill="white"/>
+        <rect x="-603.5" y="808.5625" width="186" height="83.25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-598.5 822.5155)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="2.944" y="15">Initial redemption policy </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="3.984" y="33.448">defines core promise of </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="53.32" y="51.895996">economy.</tspan>
+        </text>
+      </g>
+      <g id="Line_193">
+        <line x1="-297.7971" y1="786.8125" x2="-417.5" y2="822.4781" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_192">
+        <line x1="-517.26926" y1="891.8125" x2="-533.1455" y2="989.4375" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_191">
+        <line x1="-332.74857" y1="891.8125" x2="-483.43367" y2="989.4375" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_190">
+        <rect x="-155.5" y="825.78125" width="216" height="83.25" fill="white"/>
+        <rect x="-155.5" y="825.78125" width="216" height="83.25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-150.5 839.7343)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="4.016" y="15">As a representation of trust, </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7.432" y="33.448">money is as arbitrary as its </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="55.136" y="51.895996">minting logic.</tspan>
+        </text>
+      </g>
+      <g id="Line_189">
+        <line x1="113.05978" y1="799.9341" x2="51.552704" y2="825.78125" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_188">
+        <rect x="-425" y="967.0625" width="216" height="83.25" fill="white"/>
+        <rect x="-425" y="967.0625" width="216" height="83.25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-420 990.2395)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="6.384" y="15">The White Man strip-fished </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="5.184" y="33.448">the wampum money shells.</tspan>
+        </text>
+      </g>
+      <g id="Line_187">
+        <line x1="-126.90146" y1="909.0312" x2="-237.59854" y2="967.0625" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_186">
+        <line x1="-281.237" y1="891.8125" x2="-304.263" y2="967.0625" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_185">
+        <rect x="-504" y="1088.3867" width="186" height="83.25" fill="white"/>
+        <rect x="-504" y="1088.3867" width="186" height="83.25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-499 1102.3397)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="66.216" y="15">http://</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7.464" y="33.448">nakamotoinstitute.org/</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="43.552" y="51.895996">shelling-out/</tspan>
+        </text>
+      </g>
+      <g id="Line_184">
+        <line x1="-349.25036" y1="1050.3125" x2="-378.74964" y2="1088.3867" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_183">
+        <rect x="1289.5" y="1320.8008" width="199" height="78" fill="white"/>
+        <rect x="1289.5" y="1320.8008" width="199" height="78" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1294.5 1332.1288)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="14.636" y="15">User-defined issuance </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="10.94" y="33.448">curve in exchange for a </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="38.348" y="51.895996">given asset pair</tspan>
+        </text>
+      </g>
+      <g id="Line_182">
+        <line x1="1385.8628" y1="1803" x2="1388.724" y2="1398.8008" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_181">
+        <rect x="372" y="1356.8008" width="211" height="55" fill="white"/>
+        <rect x="372" y="1356.8008" width="211" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(377 1375.0768)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="27.148" y="15">Liquid Boolean Trust</tspan>
+        </text>
+      </g>
+      <g id="Line_180">
+        <line x1="664.1378" y1="1209.5" x2="506.8622" y2="1356.8008" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_179">
+        <rect x="262" y="1485.8008" width="211" height="102.5" fill="white"/>
+        <rect x="262" y="1485.8008" width="211" height="102.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(267 1509.3788)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="32.476" y="15">A has 100, trusts B</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="40.78" y="33.448">B has 0, trusts C</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="31.228" y="51.895996">ergo A trusts C 100</tspan>
+        </text>
+      </g>
+      <g id="Line_178">
+        <line x1="457.6964" y1="1411.8008" x2="404.4067" y2="1485.8008" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_177">
+        <rect x="184" y="967.0625" width="173" height="55" fill="white"/>
+        <rect x="184" y="967.0625" width="173" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(189 976.1145)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="13.772" y="15">“Nothing Ventured, </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="22.084" y="33.448">Nothing Gained”</tspan>
+        </text>
+      </g>
+      <g id="Line_176">
+        <line x1="416.78352" y1="875.25" x2="304.21648" y2="967.0625" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_173">
+        <line x1="1288.7154" y1="1132" x2="1371.831" y2="1320.8008" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_172">
+        <rect x="970" y="2158" width="249" height="55" fill="white"/>
+        <rect x="970" y="2158" width="249" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(975 2176.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="10.292" y="15">Issuer-defined buy order curve</tspan>
+        </text>
+      </g>
+      <g id="Line_171">
+        <line x1="1340.4774" y1="1905.5" x2="1118.6585" y2="2158" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_170">
+        <rect x="1323" y="660" width="173" height="55" fill="white"/>
+        <rect x="1323" y="660" width="173" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1328 668.0359)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" x="1.076" y="16">Personal/Community </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" x="39.868" y="35.46411">Currencies</tspan>
+        </text>
+      </g>
+      <g id="Line_169">
+        <line x1="1167.9651" y1="481" x2="1377.3343" y2="660" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_168">
+        <line x1="1368.4736" y1="715" x2="1270.0102" y2="781" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_167">
+        <rect x="1440" y="523" width="167" height="55" fill="white"/>
+        <rect x="1440" y="523" width="167" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1445 531.0359)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" x="26.804" y="16">Mutual Credit </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" x="45.908" y="35.46411">Systems</tspan>
+        </text>
+      </g>
+      <g id="Line_166">
+        <line x1="1203" y1="461.12224" x2="1440" y2="527.2144" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_165">
+        <line x1="1607" y1="569.5019" x2="1899.5" y2="636.0654" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_164">
+        <line x1="1607" y1="555.05865" x2="1899.5" y2="571.0276" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_161">
+        <rect x="1941.1953" y="328" width="173" height="55" fill="white"/>
+        <rect x="1941.1953" y="328" width="173" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1946.1953 346.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="35.124" y="15">For Products</tspan>
+        </text>
+      </g>
+      <g id="Graphic_160">
+        <rect x="1941.1953" y="419" width="173" height="55" fill="white"/>
+        <rect x="1941.1953" y="419" width="173" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1946.1953 437.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="28.908" y="15">For Ownership</tspan>
+        </text>
+      </g>
+      <g id="Line_159">
+        <line x1="1860.1953" y1="416.0829" x2="1941.1953" y2="430.7921" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_158">
+        <line x1="2114.1953" y1="446.5" x2="2139.1953" y2="446.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_157">
+        <line x1="1860.1953" y1="385.09277" x2="1941.1953" y2="370.78223" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_156">
+        <line x1="2110.1953" y1="328" x2="2143.1953" y2="317" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_155">
+        <rect x="2139.1953" y="340.5" width="173" height="55" fill="#c0ffc0"/>
+        <rect x="2139.1953" y="340.5" width="173" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2144.1953 358.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="42.836" y="15">IndieGoGo</tspan>
+        </text>
+      </g>
+      <g id="Line_154">
+        <line x1="2114.1953" y1="360.96086" x2="2139.1953" y2="362.53914" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_153">
+        <rect x="1440" y="254" width="173" height="55" fill="white"/>
+        <rect x="1440" y="254" width="173" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1445 272.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="16.156" y="15">MicroTransactions</tspan>
+        </text>
+      </g>
+      <g id="Line_152">
+        <line x1="1203" y1="404.1933" x2="1453.992" y2="309" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_151">
+        <line x1="1583.685" y1="309" x2="1716.5103" y2="372.875" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_150">
+        <rect x="1690" y="177" width="173" height="55" fill="white"/>
+        <rect x="1690" y="177" width="173" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1695 195.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="38.684" y="15">MicroGiving</tspan>
+        </text>
+      </g>
+      <g id="Line_149">
+        <line x1="1613" y1="254.858" x2="1690" y2="231.142" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_148">
+        <rect x="1944" y="140" width="173" height="55" fill="#c0ffc0"/>
+        <rect x="1944" y="140" width="173" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1949 158.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="27.868" y="15">DonorsChoose</tspan>
+        </text>
+      </g>
+      <g id="Graphic_147">
+        <rect x="1944" y="214" width="173" height="55" fill="#c0ffc0"/>
+        <rect x="1944" y="214" width="173" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1949 232.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="41.34" y="15">GoFundMe</tspan>
+        </text>
+      </g>
+      <g id="Line_146">
+        <line x1="1863" y1="191.8996" x2="1944" y2="180.1004" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_145">
+        <line x1="1863" y1="217.1004" x2="1944" y2="228.8996" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_144">
+        <line x1="1642.0287" y1="770.7695" x2="1668.9713" y2="790" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_143">
+        <rect x="-901" y="545.125" width="455" height="234.875" fill="white"/>
+        <rect x="-901" y="545.125" width="455" height="234.875" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-896 561.7705)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="5.836" y="15">“Leap of Faith” as the moment that action is taken in spite of </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="116.54" y="33.448">remaining reasonable doubts.</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="20.372" y="69.896">This moment is present in all non-certain (trust-requiring) </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="194.348" y="88.34399">actions.</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7.564" y="124.79199">I might argue that at the deepest level, absolutely everything </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="139.684" y="143.23999">we do is a leap of faith.</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="1.284" y="179.68799">The job of our logical mind is to allow us to inform our faith, to </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="95.508" y="198.13599">take the most well-estimated leaps.</tspan>
+        </text>
+      </g>
+      <g id="Line_142">
+        <line x1="-309.51702" y1="566.5625" x2="-446" y2="602.5597" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_141">
+        <rect x="937" y="3136.3168" width="229" height="151.25" fill="white"/>
+        <rect x="937" y="3136.3168" width="229" height="151.25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(942 3173.9418)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="3.670125" y="15">“</tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" y="15">The core idea of Trust is Risk is </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="9.078125" y="34">quite simple. We believe this is </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="9.976562" y="53">the right approach for handling </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="11.765625" y="72">decentralized trust. Here it is.”</tspan>
+        </text>
+      </g>
+      <g id="Graphic_140">
+        <rect x="753" y="2885.4664" width="173" height="67" fill="white"/>
+        <rect x="753" y="2885.4664" width="173" height="67" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(758 2908.7284)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="8.9185" y="16">“Shared Accounts”</tspan>
+        </text>
+      </g>
+      <g id="Line_139">
+        <line x1="946.4994" y1="2824.0494" x2="877.2644" y2="2885.4664" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_138">
+        <rect x="341" y="1650.8008" width="158" height="59" fill="#c0ffc0"/>
+        <rect x="341" y="1650.8008" width="158" height="59" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(346 1671.0768)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="9.56" y="15">GPG Web of Trust</tspan>
+        </text>
+      </g>
+      <g id="Graphic_137">
+        <rect x="-212" y="252.75" width="103" height="55" fill="#c0ffc0"/>
+        <rect x="-212" y="252.75" width="103" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-207 271.026)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="21.316" y="15">Project</tspan>
+        </text>
+      </g>
+      <g id="Graphic_136">
+        <text transform="translate(-532 201.47)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="20" font-weight="400" fill="black" x=".46" y="19">Key</tspan>
+        </text>
+      </g>
+      <g id="Graphic_134">
+        <rect x="-539" y="252.75" width="138" height="55" fill="white"/>
+        <rect x="-539" y="252.75" width="138" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-534 270.51794)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" x="14.224" y="16">Big Category</tspan>
+        </text>
+      </g>
+      <g id="Graphic_133">
+        <rect x="-368" y="252.75" width="123" height="55" fill="white"/>
+        <rect x="-368" y="252.75" width="123" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-363 271.026)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="25.828" y="15">Concept</tspan>
+        </text>
+      </g>
+      <g id="Graphic_132">
+        <rect x="-76" y="250.75" width="108" height="59" fill="white"/>
+        <rect x="-76" y="250.75" width="108" height="59" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-71 271.026)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="15.96" y="15">Web Link</tspan>
+        </text>
+      </g>
+      <g id="Graphic_131">
+        <rect x="65" y="248.75" width="138" height="59" fill="white"/>
+        <rect x="65" y="248.75" width="138" height="59" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(70 268.75)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="25.045125" y="15">“</tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" y="15">Quotation”</tspan>
+        </text>
+      </g>
+      <g id="Graphic_130">
+        <rect x="18" y="1330.3008" width="138" height="59" fill="white"/>
+        <rect x="18" y="1330.3008" width="138" height="59" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(23 1350.5768)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="9.48" y="15">Access Control</tspan>
+        </text>
+      </g>
+      <g id="Line_129">
+        <line x1="87" y1="1317.3008" x2="87" y2="1330.3008" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_128">
+        <rect x="1517" y="715.7695" width="173" height="55" fill="white"/>
+        <rect x="1517" y="715.7695" width="173" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1522 724.8215)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="3.868" y="15">Universally equivalent </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="44.46" y="33.448">currencies</tspan>
+        </text>
+      </g>
+      <g id="Line_127">
+        <line x1="1496" y1="712.3663" x2="1517" y2="718.4032" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_126">
+        <rect x="1123.5" y="781" width="205" height="59" fill="white"/>
+        <rect x="1123.5" y="781" width="205" height="59" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1128.5 792.052)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="6.676" y="15">Floating Value Currencies </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="45.788" y="33.448">(Most Tokens!)</tspan>
+        </text>
+      </g>
+      <g id="Line_125">
+        <line x1="1230.8835" y1="840" x2="1267.7785" y2="1062.875" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_124">
+        <rect x="1424" y="829" width="173" height="55" fill="white"/>
+        <rect x="1424" y="829" width="173" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1429 838.052)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="9.044" y="15">Consistent Issuance </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="59.876" y="33.448">Policy</tspan>
+        </text>
+      </g>
+      <g id="Line_123">
+        <line x1="1580.9133" y1="770.7695" x2="1533.0867" y2="829" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_122">
+        <line x1="1497.132" y1="884" x2="1488.868" y2="901" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_121">
+        <rect x="102.5" y="1677.5" width="137" height="55" fill="#c0ffc0"/>
+        <rect x="102.5" y="1677.5" width="137" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(107.5 1695.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="40.988" y="15">Stellar</tspan>
+        </text>
+      </g>
+      <g id="Graphic_120">
+        <rect x="1227.1701" y="2951.125" width="229" height="151.25" fill="white"/>
+        <rect x="1227.1701" y="2951.125" width="229" height="151.25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1232.1701 2969.75)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="12.107625" y="15">“</tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" y="15">If you’re willing to risk some </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="4.1875" y="34">money by having some exposure </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="13.082031" y="53">to known friends, then we can </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="19.980469" y="72">solve the decentralized trust </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="7.0703125" y="91">problem. This is the crux of this </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="47.29297" y="110">reputation system.”</tspan>
+        </text>
+      </g>
+      <g id="Graphic_118">
+        <path d="M 1027.3407 1270.5122 C 1009.5625 1265.2017 1016.652 1220.4953 1045.0122 1228.1235 C 1047.6434 1213.2537 1080.6225 1215.6673 1080.4069 1228.1235 C 1101.0858 1212.1918 1127.5122 1243.9594 1109.7868 1259.8911 C 1131.0564 1267.6152 1109.5184 1309.2317 1092.0625 1302.2798 C 1090.6655 1313.867 1059.4596 1317.9218 1056.7206 1302.2798 C 1039.0502 1318.9847 1002.2046 1293.3 1027.3407 1270.5122 Z" fill="#c0ffff"/>
+        <path d="M 1027.3407 1270.5122 C 1009.5625 1265.2017 1016.652 1220.4953 1045.0122 1228.1235 C 1047.6434 1213.2537 1080.6225 1215.6673 1080.4069 1228.1235 C 1101.0858 1212.1918 1127.5122 1243.9594 1109.7868 1259.8911 C 1131.0564 1267.6152 1109.5184 1309.2317 1092.0625 1302.2798 C 1090.6655 1313.867 1059.4596 1317.9218 1056.7206 1302.2798 C 1039.0502 1318.9847 1002.2046 1293.3 1027.3407 1270.5122 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1034.5 1237.5297)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="20.164" y="15">The </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="2.684" y="33.448">Primitive </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="11.276" y="51.895996">I Seek</tspan>
+        </text>
+      </g>
+      <g id="Line_117">
+        <line x1="1033.0937" y1="1305.604" x2="921.9039" y2="1434.3008" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Line_116">
+        <line x1="1092.4903" y1="1223.7724" x2="1393.2438" y2="715" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Line_114">
+        <line x1="1415.2873" y1="956" x2="537.7127" y2="1356.8008" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_113">
+        <rect x="937" y="3318" width="229" height="102.5" fill="white"/>
+        <rect x="937" y="3318" width="229" height="102.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(942 3331.25)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="16.572469" y="15">“</tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" y="15">Technically, we say that the </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="27.070312" y="34">web-of-trust forms a </tspan>
+          <tspan font-family="Times" font-size="16" font-style="italic" font-weight="400" fill="#333" y="34">trust </tspan>
+          <tspan font-family="Times" font-size="16" font-style="italic" font-weight="400" fill="#333" x="23.972656" y="53">graph</tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" y="53"> of people connected </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="29.75" y="72">through lines-of-credit. “</tspan>
+        </text>
+      </g>
+      <g id="Line_111">
+        <line x1="971.9559" y1="2769.0494" x2="797.8625" y2="1905.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_110">
+        <rect x="711" y="1827.5" width="158" height="78" fill="white"/>
+        <rect x="711" y="1827.5" width="158" height="78" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(716 1838.828)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="11.928" y="15">Receiver controls </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="3.464" y="33.448">backing distribution </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="14.744" y="51.895996">at withdraw time</tspan>
+        </text>
+      </g>
+      <g id="Graphic_109">
+        <rect x="947" y="1745" width="158" height="78" fill="white"/>
+        <rect x="947" y="1745" width="158" height="78" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(952 1756.328)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="21.552" y="15">Issuer controls </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="3.464" y="33.448">backing distribution </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="21.24" y="51.895996">at lending time</tspan>
+        </text>
+      </g>
+      <g id="Line_108">
+        <line x1="902.4399" y1="1569.5" x2="1003.5345" y2="1745" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_107">
+        <line x1="1039.3114" y1="1823" x2="1069.6886" y2="1912" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_106">
+        <line x1="849.8725" y1="1569.5" x2="797.86205" y2="1827.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_105">
+        <rect x="553" y="2078" width="272" height="78" fill="white"/>
+        <rect x="553" y="2078" width="272" height="78" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(558 2080.104)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="80.168" y="15">A trusts B 100</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="4.16" y="33.448">B trusts C 50 of own, 75 of A’s trust</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="17.024" y="51.895996">if C withdraws &lt; all, can choose </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="40.344" y="70.34399">whose coins to withdraw.</tspan>
+        </text>
+      </g>
+      <g id="Line_104">
+        <line x1="774.27545" y1="1905.5" x2="704.72455" y2="2078" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_103">
+        <line x1="1040.0592" y1="1745" x2="1261.0405" y2="1132" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_285">
+        <line x1="827.2273" y1="1905.5" x2="1068.25" y2="2158" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_101">
+        <rect x="-65" y="948" width="173" height="55" fill="white"/>
+        <rect x="-65" y="948" width="173" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-60 957.052)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="15.556" y="15">Trust as Economic </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="47.86" y="33.448">Lubricant</tspan>
+        </text>
+      </g>
+      <g id="Graphic_100">
+        <rect x="108" y="1080" width="249" height="91.63672" fill="white"/>
+        <rect x="108" y="1080" width="249" height="91.63672" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(113 1098.1464)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="17.876" y="15">http://www.personal.ceu.hu/</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="24.668" y="33.448">staff/Adam_Szeidl/papers/</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="52.396" y="51.895996">socialcollateral.pdf</tspan>
+        </text>
+      </g>
+      <g id="Line_99">
+        <line x1="60.101406" y1="1003" x2="168.18534" y2="1080" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_98">
+        <rect x="-87" y="1061.5625" width="178.5" height="78" fill="white"/>
+        <rect x="-87" y="1061.5625" width="178.5" height="78" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-82 1072.8905)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="1.41" y="15">Sound investment is all </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="18.754" y="33.448">about establishing </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-style="italic" font-weight="400" fill="black" x="35.202" y="51.895996">credible</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" y="51.895996"> trust.</tspan>
+        </text>
+      </g>
+      <g id="Line_97">
+        <line x1="17.267116" y1="1003" x2="8.2529985" y2="1061.5625" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_96">
+        <line x1="157.23843" y1="799.9341" x2="42.76157" y2="948" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_95">
+        <line x1="108" y1="982.1221" x2="184" y2="987.9404" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_94">
+        <rect x="-487" y="1226" width="216" height="83.25" fill="white"/>
+        <rect x="-487" y="1226" width="216" height="83.25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-482 1249.177)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="4.456" y="15">Central fiat banks dominate </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="24.76" y="33.448">in the nation-state era</tspan>
+        </text>
+      </g>
+      <g id="Line_93">
+        <line x1="-81.97786" y1="909.0312" x2="-344.52214" y2="1226" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_92">
+        <rect x="-257.5" y="1140.375" width="154" height="83.25" fill="white"/>
+        <rect x="-257.5" y="1140.375" width="154" height="83.25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-252.5 1163.552)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="3.832" y="15">Bitcoin proved p2p </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="8.88" y="33.448">currency possible</tspan>
+        </text>
+      </g>
+      <g id="Line_91">
+        <line x1="-65.097695" y1="909.0312" x2="-162.9023" y2="1140.375" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_90">
+        <rect x="384" y="955.3516" width="216" height="162.44922" fill="white"/>
+        <rect x="384" y="955.3516" width="216" height="162.44922" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(389 960.5762)" fill="black">
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="black" x="0" y="15">“We predict that dense </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="black" x="0" y="34">networks generate bonding </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="black" x="0" y="53">social capital that allows </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="black" x="0" y="72">transacting valuable assets, </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="black" x="0" y="91">whereas loose networks create </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="black" x="0" y="110">bridging social capital that </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="black" x="0" y="129">improves access to cheap </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="black" x="0" y="148">favors such as information.”</tspan>
+        </text>
+      </g>
+      <g id="Line_89">
+        <line x1="357" y1="1083.0027" x2="384" y2="1073.7174" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_88">
+        <line x1="357" y1="1140.991" x2="607" y2="1171.4583" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_87">
+        <rect x="937" y="3444.75" width="229" height="194.25" fill="white"/>
+        <rect x="937" y="3444.75" width="229" height="194.25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(942 3456.375)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="10.357625" y="15">“</tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" y="15">The way we evaluate the total </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="4.863281" y="34">risk exposure of a buyer towards </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="12.414062" y="53">a vendor is using a fascinating </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="6.644531" y="72">classical graph theory algorithm </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="39.964844" y="91">from the 1950s called </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="51.285156" y="110">the </tspan>
+          <tspan font-family="Times" font-size="16" font-style="italic" font-weight="400" fill="#333" y="110">maximum flow </tspan>
+          <tspan font-family="Times" font-size="16" font-style="italic" font-weight="400" fill="#333" x="2.4023438" y="129">algorithm</tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" y="129"> which was invented by </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="32.859375" y="148">Lester Ford and Delbert </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="71.94922" y="167">Fulkerson.”</tspan>
+        </text>
+      </g>
+      <g id="Line_86">
+        <line x1="1051.5" y1="3420.5" x2="1051.5" y2="3444.75" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_84">
+        <rect x="684" y="3526.2746" width="229" height="55" fill="white"/>
+        <rect x="684" y="3526.2746" width="229" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(689 3535.3266)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="16.156" y="15">https://homepages.cwi.nl/</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19.076" y="33.448">~lex/files/histtrpclean.pdf</tspan>
+        </text>
+      </g>
+      <g id="Line_83">
+        <line x1="937" y1="3547.2604" x2="913" y2="3548.3892" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_81">
+        <rect x="1512" y="2361" width="229" height="98.875" fill="white"/>
+        <rect x="1512" y="2361" width="229" height="98.875" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1517 2372.4375)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="2.8068437" y="15">“</tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" y="15">The calculation of where to take </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="1.0859375" y="34">money from in order to keep your </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="6.8515625" y="53">risk constant is performed using </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="4.1640625" y="72">a </tspan>
+          <tspan font-family="Times" font-size="16" font-style="italic" font-weight="400" fill="#333" y="72">trust redistribution algorithm</tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" y="72">.”</tspan>
+        </text>
+      </g>
+      <g id="Line_80">
+        <line x1="1023.7237" y1="2769.0494" x2="1543.4025" y2="2459.875" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_79">
+        <line x1="1605.0784" y1="2361" x2="1407.707" y2="1905.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_78">
+        <rect x="1216.5" y="3136.3168" width="249" height="203.69922" fill="#ff8080"/>
+        <rect x="1216.5" y="3136.3168" width="249" height="203.69922" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1221.5 3142.4284)" fill="#333">
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="#333" x="6.578219" y="16">“</tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" y="16">But if the vendor decides to screw </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="1.0859375" y="35.476">you, there’s nothing we can do about </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="9.757812" y="54.476">it, except show you a trace of why </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="3.3085938" y="73.476">the vendor was deemed trustworthy, </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="12.183594" y="92.476">pointing exactly to whom of your </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="2.390625" y="111.476">friends you should stop trusting now </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="22.410156" y="130.476">(or whom of </tspan>
+          <tspan font-family="Times" font-size="16" font-style="italic" font-weight="400" fill="#333" y="130.476">their</tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" y="130.476"> friends they </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="13.503906" y="149.476">should stop trusting, and so on).”</tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="54.6875" y="187.476">??!?!?!?!!!!??!?!?!?!</tspan>
+        </text>
+      </g>
+      <g id="Graphic_77">
+        <rect x="933" y="2996.7666" width="229" height="83.25" fill="white"/>
+        <rect x="933" y="2996.7666" width="229" height="83.25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(938 3010.7196)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="5.748" y="15">https://www.openbazaar.org/</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="39.868" y="33.448">blog/trust-is-risk-a-</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="10.828" y="51.895996">decentralized-trust-system/</tspan>
+        </text>
+      </g>
+      <g id="Line_76">
+        <line x1="985.4597" y1="2824.0494" x2="1035.4519" y2="2996.7666" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_75">
+        <line x1="1048.4594" y1="3080.0166" x2="1049.757" y2="3136.3168" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_74">
+        <line x1="1108.6535" y1="3080.0166" x2="1216.5" y2="3153.4237" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_73">
+        <rect x="1187.5" y="3357.4664" width="307" height="774" fill="white"/>
+        <rect x="1187.5" y="3357.4664" width="307" height="774" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1192.5 3377.0884)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="28.3525" y="16">It seems to me obvious that OB </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="11.9985" y="36.476">missed an obvious capability: Using </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="13.1035" y="56.951996">the initial limited exposure as actual </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="23.635" y="77.42799">insurance! Don’t pay if you aren’t </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="94.338" y="97.90399">happy, period!</tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="24.7655" y="138.37999">The people in between would be </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="11.208" y="158.85599">notified, and would probably update </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="34.838" y="179.33199">their lines of trust accordingly.</tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="48.047" y="219.80798">if A, B, and C all have 100,</tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="96.854" y="240.28398">A trusts B 50,</tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="96.225" y="260.75998">B trusts C 50,</tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="79.8455" y="281.23598">C can buy from A,</tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="17.2855" y="301.71198">with an option to charge insurance </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x=".668" y="322.18797">from B if it falls through, or choosing to </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="39.2325" y="342.66397">share the blame if they want.</tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="9.78" y="383.13997">Bonus: B doesn’t have to consent to </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="17.6595" y="403.61597">an insurance scheme. By pledging </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="11.684" y="424.09196">trust to C, they give C permission to </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="4.6205" y="444.56796">withdraw those funds for any purpose </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="11.667" y="465.04396">or need. There is a fundamental and </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x=".4895" y="485.51996">intimate kind of bond here that is rarely </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="104.8865" y="505.99596">seen today.</tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="37.337" y="546.47195">I think this bond is somewhat </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="2.2065" y="566.94795">reminiscent of the old-time community </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="32.4665" y="587.42395">bank manager, who knew their </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="10.2475" y="607.89995">community members well enough to </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="31.047" y="628.37595">use personal reputation in their </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="110.0885" y="648.85194">decisions.</tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="1.7645" y="689.32794">Extending the trust is a risk, but is also </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="14.9905" y="709.8039">the only chance at empowering the </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="6.958" y="730.2799">other to better your shared condition.</tspan>
+        </text>
+      </g>
+      <g id="Line_72">
+        <line x1="1341" y1="3340.016" x2="1341" y2="3357.4664" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_71">
+        <rect x="224" y="250.75" width="137" height="59" fill="#ff8080"/>
+        <rect x="224" y="250.75" width="137" height="59" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(229 270.012)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="30.9195" y="16">Concern</tspan>
+        </text>
+      </g>
+      <g id="Graphic_70">
+        <rect x="1389" y="973" width="199" height="102.5" fill="#ff8080"/>
+        <rect x="1389" y="973" width="199" height="102.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1394 983.298)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="5.5475" y="16">If you trust a single bad </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="14.3705" y="36.476">identity verifier, it can </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="32.9345" y="56.951996">crush that entire </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="57.6525" y="77.42799">economy.</tspan>
+        </text>
+      </g>
+      <g id="Line_69">
+        <line x1="1479.2337" y1="956" x2="1481.5418" y2="973" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_68">
+        <rect x="1873.5" y="697.4341" width="199" height="102.5" fill="#ff8080"/>
+        <rect x="1873.5" y="697.4341" width="199" height="102.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1878.5 707.7321)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="8.8455" y="16">No premium for skilled </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="20.669" y="36.476">labor would tend to </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x=".048" y="56.951996">discourage economically </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="14.991" y="77.42799">valued contributions.</tspan>
+        </text>
+      </g>
+      <g id="Line_67">
+        <line x1="1794" y1="795.07975" x2="1873.5" y2="774.47385" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_66">
+        <rect x="2315.5" y="1468" width="262" height="91.63672" fill="white"/>
+        <rect x="2315.5" y="1468" width="262" height="91.63672" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2320.5 1483.1044)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="13.732" y="16">A group pools funds, and can </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="20.056" y="36.476">withdraw from those shared </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="80.185" y="56.951996">funds freely.</tspan>
+        </text>
+      </g>
+      <g id="Line_65">
+        <line x1="2148" y1="1586.8397" x2="2315.5" y2="1545.8646" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_64">
+        <rect x="2328.5" y="1609.6523" width="249" height="102.5" fill="#ff8080"/>
+        <rect x="2328.5" y="1609.6523" width="249" height="102.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2333.5 1619.9503)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="21.41" y="16">By being hyper-simplistic, </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="28.822" y="36.476">while easy to adopt, the </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="16.157" y="56.951996">benefits of larger economic </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="52.129" y="77.42799">networks are lost.</tspan>
+        </text>
+      </g>
+      <g id="Line_63">
+        <line x1="2148" y1="1619.6885" x2="2328.5" y2="1644.079" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_62">
+        <rect x="2468" y="134" width="249" height="416" fill="#ff8080"/>
+        <rect x="2468" y="134" width="249" height="416" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2473 147.71602)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="11.686" y="16">Centralized solutions reward </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="2.183" y="36.476">rent-seeking middlemen taking </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="11.8135" y="56.951996">fees away from the intended </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="80.298" y="77.42799">recipients.</tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="10.717" y="117.90399">MicroTransactions in general </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="11.2015" y="138.37999">are also not really alternative </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="1.095" y="158.85599">economic models at all, they’re </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="15.1115" y="179.33199">just the existing model on a </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="15.766" y="199.80798">smaller scale, so while they </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="19.506" y="220.28398">could make some kinds of </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="26.2975" y="240.75998">fundraising possible that </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="16.055" y="261.23598">weren’t before, this doesn’t </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="8.8045" y="281.71198">represent a fundamental shift </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="20.7895" y="302.18797">in how money operates to </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="11.652" y="322.66397">represent trust. Its issuance/</tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="7.8695" y="343.13997">use, and in turn ultimate flow, </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x=".6445" y="363.61597">is as arbitrary as the currency it </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="41.725" y="384.09196">is micro-transacting.</tspan>
+        </text>
+      </g>
+      <g id="Line_61">
+        <line x1="2117" y1="194.3581" x2="2468" y2="303.34297" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_60">
+        <line x1="2117" y1="256.96842" x2="2468" y2="319.7362" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_59">
+        <line x1="2312.1953" y1="301.88057" x2="2468" y2="324.18057" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_58">
+        <line x1="2312.1953" y1="361.86867" x2="2468" y2="350.82486" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_57">
+        <line x1="2312.1953" y1="421.8568" x2="2468" y2="377.46915" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_56">
+        <rect x="937" y="3663.25" width="229" height="213.8996" fill="white"/>
+        <rect x="937" y="3663.25" width="229" height="213.8996" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(942 3675.2)" fill="#333">
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="0" y="15">“The careful reader will have </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="0" y="34">noticed that this system is no </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="0" y="53">longer Sybil-attackable. This </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="0" y="72">stems directly from the fact that </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="0" y="91">indirect trust is projected and is </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="0" y="110">based on risk.”</tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="0" y="148">“We formalize precisely what this </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="0" y="167">means and prove this fact in </tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" x="0" y="186">our </tspan>
+          <tspan font-family="Times" font-size="16" font-style="italic" font-weight="400" fill="#333" y="186">sybil resilience theorem</tspan>
+          <tspan font-family="Times" font-size="16" font-weight="400" fill="#333" y="186">.”</tspan>
+        </text>
+      </g>
+      <g id="Line_55">
+        <line x1="1051.5" y1="3639" x2="1051.5" y2="3663.25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_53">
+        <rect x="73.5" y="1764.5" width="195" height="113" fill="white"/>
+        <rect x="73.5" y="1764.5" width="195" height="113" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(78.5 1769.81)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="13.79" y="16">Notion of “Groups of </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="14.878" y="36.476">Trusted Parties”, but </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="15.201" y="56.951996">used for guessing at </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="13.62" y="77.42799">consensus algorithm </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="22.1285" y="97.90399">finality in advance.</tspan>
+        </text>
+      </g>
+      <g id="Line_52">
+        <line x1="171" y1="1732.5" x2="171" y2="1764.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_51">
+        <rect x="921" y="762" width="173" height="55" fill="white"/>
+        <rect x="921" y="762" width="173" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(926 761.828)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="1.492" y="15">Prices &amp; exposure can </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="8.3" y="33.448">benefit from wisdom </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="36.612" y="51.895996">of the crowd</tspan>
+        </text>
+      </g>
+      <g id="Line_50">
+        <line x1="1123.5" y1="800.6487" x2="1094" y2="797.8135" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_49">
+        <rect x="1006.5" y="665" width="220" height="83.25" fill="#ff8080"/>
+        <rect x="1006.5" y="665" width="220" height="83.25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1011.5 675.911)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x=".161" y="16">Not as ideologically pure as </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="30.8545" y="36.476">a flat UBI. Does not </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="9.7405" y="56.951996">promise value to anyone.</tspan>
+        </text>
+      </g>
+      <g id="Line_48">
+        <line x1="1194.9025" y1="781" x2="1160.379" y2="748.25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_47">
+        <rect x="2869" y="581.83594" width="272" height="244.41406" fill="#ff8080"/>
+        <rect x="2869" y="581.83594" width="272" height="244.41406" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2874 601.901)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="3.772" y="16">Trustlines seems to be built on an </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="13.3855" y="36.476">unecessary assumption that all </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="12.612" y="56.951996">economic relationships want to </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="17.9585" y="77.42799">tend towards being balanced.</tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="13.4875" y="117.90399">I would argue that rebalancing/</tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="26.4245" y="138.37999">forgiving/authorizing/jubilee </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="6.611" y="158.85599">expenditures are so fundamental </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="7.2485" y="179.33199">to a proper p2p web of trust that </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="30.8615" y="199.80798">this model looks like a toy.</tspan>
+        </text>
+      </g>
+      <g id="Line_46">
+        <line x1="2333" y1="787.9495" x2="2869" y2="721.0241" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_45">
+        <rect x="2102" y="516" width="346.5" height="134.75" fill="#ff8080"/>
+        <rect x="2102" y="516" width="346.5" height="134.75" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2107 532.185)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="1.0805" y="16">While ROSCAs powerfully demonstrate how </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x=".273" y="36.476">pooled capital is more powerful than smaller </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="14.5615" y="56.951996">amounts unpooled, this is fundamentally </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="28.136" y="77.42799">just a way of joining funds, and it is a </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="16.95" y="97.90399">stretch to call it a new economic model.</tspan>
+        </text>
+      </g>
+      <g id="Line_44">
+        <line x1="2072.5" y1="578.03025" x2="2102" y2="578.8079" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_43">
+        <rect x="1517" y="1155.2393" width="199" height="219.9248" fill="#ff8080"/>
+        <rect x="1517" y="1155.2393" width="199" height="219.9248" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1522 1163.2977)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="1.612" y="16">Currently popularly used </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="9.653" y="36.476">for specific, seemingly </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="33.725" y="56.951996">niche purposes:</tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="21.4425" y="97.42799">Curation markets &amp; </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="23.0235" y="117.90399">instant exchanges.</tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="19.7" y="158.37999">I think there is more </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="2.071" y="178.85599">potential, but it needs to </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="47.1125" y="199.33199">be explored.</tspan>
+        </text>
+      </g>
+      <g id="Line_42">
+        <line x1="1344.1643" y1="1132" x2="1517" y2="1216.5354" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_41">
+        <rect x="1392.75" y="748" width="103.25" height="55" fill="#c0ffc0"/>
+        <rect x="1392.75" y="748" width="103.25" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1397.75 766.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="13.297" y="15">BeerCoin</tspan>
+        </text>
+      </g>
+      <g id="Graphic_40">
+        <rect x="1512" y="1803" width="173" height="91" fill="white"/>
+        <rect x="1512" y="1803" width="173" height="91" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1517 1820.828)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="12.228" y="15">Arguably trust in an </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="6.98" y="33.448">algorithm itself is still </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="5.932" y="51.895996">fully parametric trust.</tspan>
+        </text>
+      </g>
+      <g id="Graphic_38">
+        <rect x="-224.5" y="1250.8008" width="178.5" height="78" fill="white"/>
+        <rect x="-224.5" y="1250.8008" width="178.5" height="78" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-219.5 1271.3528)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="3.49" y="15">“The Tipping Point” by </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="20.698" y="33.448">Malcolm Gladwell</tspan>
+        </text>
+      </g>
+      <g id="Line_37">
+        <line x1="129.7469" y1="1171.6367" x2="-47.78788" y2="1250.8008" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_36">
+        <rect x="-331" y="1351" width="243" height="156" fill="white"/>
+        <rect x="-331" y="1351" width="243" height="156" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-326 1373.656)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".772" y="15">Demonstrates that in knowledge </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="8.348" y="33.448">networks (like advertising), the </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="12.428" y="51.895996">largest value growth relies on </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="9.972" y="70.34399">“connectors”, individuals who </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="12.78" y="88.79199">connect otherwise dense but </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="40.324" y="107.23999">unconnected groups.</tspan>
+        </text>
+      </g>
+      <g id="Line_35">
+        <line x1="-156.05292" y1="1328.8008" x2="-167.89416" y2="1351" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_34">
+        <rect x="2363" y="815" width="218" height="102.5" fill="white"/>
+        <rect x="2363" y="815" width="218" height="102.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2368 825.298)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="22.791" y="16">People form two-way </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="4.9835" y="36.476">shared accounts, allowing </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="11.1035" y="56.951996">transitive trust up to that </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="47.475" y="77.42799">trustline’s limit.</tspan>
+        </text>
+      </g>
+      <g id="Line_33">
+        <line x1="2333" y1="824.6425" x2="2363" y2="833.6225" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_32">
+        <rect x="9" y="1481.5" width="199" height="103.80078" fill="#ff8080"/>
+        <rect x="9" y="1481.5" width="199" height="103.80078" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(14 1492.4484)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="7.2815" y="16">Since each actor in the </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="9.9675" y="36.476">network gets full trust, </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="12.4665" y="56.951996">trust has to be issued </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="35.9435" y="77.42799">with great care.</tspan>
+        </text>
+      </g>
+      <g id="Line_31">
+        <line x1="409.44147" y1="1411.8008" x2="208" y2="1493.196" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_30">
+        <rect x="320.5" y="1750.625" width="199" height="151.25" fill="#ff8080"/>
+        <rect x="320.5" y="1750.625" width="199" height="151.25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(325.5 1764.822)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="31.8295" y="16">Trust model only </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="17.354" y="36.476">approximates actual </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="10.282" y="56.951996">trustworthiness, being </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="2.87" y="77.42799">an arbitrary assignment, </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="3.822" y="97.90399">leading to confusing UX </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="4.57" y="118.37999">that is difficult to adopt.</tspan>
+        </text>
+      </g>
+      <g id="Line_29">
+        <line x1="420" y1="1709.8008" x2="420" y2="1750.625" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_28">
+        <rect x="535" y="1650.8008" width="253.25" height="113" fill="white"/>
+        <rect x="535" y="1650.8008" width="253.25" height="113" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(540 1670.5308)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="11" font-weight="400" fill="black" x="6.8235" y="10">Since trust extended is a concrete yet arbitrary </tspan>
+          <tspan font-family="Helvetica Neue" font-size="11" font-weight="400" fill="black" x="22.4875" y="22.307999">number, it is able to represent any value.</tspan>
+          <tspan font-family="Helvetica Neue" font-size="11" font-weight="400" fill="black" x=".614" y="46.616">When trust level is explicitly specified, losses due </tspan>
+          <tspan font-family="Helvetica Neue" font-size="11" font-weight="400" fill="black" x="15.365" y="58.923996">to that “leap of faith” are limited to the trust </tspan>
+          <tspan font-family="Helvetica Neue" font-size="11" font-weight="400" fill="black" x="97.073" y="71.231995">extended.</tspan>
+        </text>
+      </g>
+      <g id="Line_27">
+        <line x1="797.0606" y1="1569.5" x2="717.1553" y2="1650.8008" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_26">
+        <line x1="1517" y1="760.7899" x2="1496" y2="765.04345" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_25">
+        <rect x="-100" y="3072" width="220" height="102.5" fill="white"/>
+        <rect x="-100" y="3072" width="220" height="102.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-95 3077.13)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="9.448" y="15">“Social Proof” Theory says </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="1.72" y="33.448">when a friend’s endorsement </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="22.312" y="51.895996">makes the friend liable, </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="17.728" y="70.34399">drivers are more likely to </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="62.928" y="88.79199">drive safely.</tspan>
+        </text>
+      </g>
+      <g id="Line_24">
+        <line x1="55.28684" y1="2827.6552" x2="17.851798" y2="3072" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_23">
+        <rect x="187" y="3106" width="267" height="189.05078" fill="#ff8080"/>
+        <rect x="187" y="3106" width="267" height="189.05078" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(192 3118.8594)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="4.298" y="16">Analyzing a trust graph to assign </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="20.8305" y="36.476">trustworthiness is like letting </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="15.62" y="56.951996">people leverage the trust they </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="23.661" y="77.42799">extend without a downside.</tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="8.2165" y="117.90399">With a big enough social graph, </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="22.6325" y="138.37999">the need for large insurance </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="13.903" y="158.85599">companies slowly evaporates.</tspan>
+        </text>
+      </g>
+      <g id="Line_22">
+        <line x1="321.92665" y1="3073" x2="321.55748" y2="3106" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_20">
+        <rect x="-10" y="2899.2674" width="218" height="59" fill="white"/>
+        <rect x="-10" y="2899.2674" width="218" height="59" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-5 2919.5434)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="25.616" y="15">Transitive Deductibles</tspan>
+        </text>
+      </g>
+      <g id="Line_19">
+        <line x1="67.94593" y1="2827.6552" x2="89.93982" y2="2899.2674" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_17">
+        <rect x="197" y="2755" width="241.66667" height="102.5" fill="white"/>
+        <rect x="197" y="2755" width="241.66667" height="102.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(202 2778.578)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="12.433333" y="15">Allows social bonding, which </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="20.697333" y="33.448">can distribute a deductible </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="37.457333" y="51.895996">across a social graph.</tspan>
+        </text>
+      </g>
+      <g id="Line_16">
+        <line x1="146" y1="2802.196" x2="197" y2="2803.3992" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_15">
+        <rect x="191" y="2970.5" width="263" height="102.5" fill="white"/>
+        <rect x="191" y="2970.5" width="263" height="102.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(196 2994.078)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7.828" y="15">Analyzes social bonding graph to </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".124" y="33.448">generate a trustworthiness score to </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="6.164" y="51.895996">be used by insurance companies.</tspan>
+        </text>
+      </g>
+      <g id="Line_14">
+        <line x1="318.94316" y1="2857.5" x2="321.39018" y2="2970.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_13">
+        <line x1="1472" y1="1851.915" x2="1512" y2="1850.835" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_12">
+        <rect x="295" y="2261" width="220" height="89.125" fill="white"/>
+        <rect x="295" y="2261" width="220" height="89.125" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(300 2273.7904)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" x="38.176" y="16">Context Sensitive </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" x="2.784" y="35.46411">Parametric Transitive Trust</tspan>
+          <tspan font-family="Helvetica Neue" font-size="11" font-weight="400" fill="black" x="4.3445" y="48.92822">Types of trust that are extended that only </tspan>
+          <tspan font-family="Helvetica Neue" font-size="11" font-weight="400" fill="black" x="14.536" y="61.23622">apply to a certain context or domain.</tspan>
+        </text>
+      </g>
+      <g id="Line_11">
+        <line x1="824.9335" y1="1569.5" x2="430.4235" y2="2261" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Line_10">
+        <line x1="363.93624" y1="2350.125" x2="84.84089" y2="2653" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_9">
+        <rect x="-27" y="2653" width="173" height="55" fill="white"/>
+        <rect x="-27" y="2653" width="173" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-22 2671.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="16.012" y="15">Insurance Context</tspan>
+        </text>
+      </g>
+      <g id="Line_8">
+        <line x1="59.5" y1="2708" x2="59.5" y2="2772.6552" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Line_7">
+        <line x1="456.9607" y1="2350.125" x2="945.4345" y2="2769.0494" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_6">
+        <rect x="-348" y="2635" width="173" height="55" fill="white"/>
+        <rect x="-348" y="2635" width="173" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-343 2653.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="14.972" y="15">Education Context</tspan>
+        </text>
+      </g>
+      <g id="Line_5">
+        <line x1="321.7896" y1="2350.125" x2="-210.14997" y2="2635" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4">
+        <rect x="-366" y="2716" width="236" height="917" fill="white"/>
+        <rect x="-366" y="2716" width="236" height="917" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-361 2724.092)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="68.52" y="15">A Quick Riff:</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="4.984" y="51.448">If we treated a student loan as </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="17.88" y="69.896">a context-sensitive peer to </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="20.976" y="88.34399">peer insurance scheme, it </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="59.056" y="106.79199">might look like:</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="24.696" y="143.23999">A person who desires an </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="2.288" y="161.68799">education in a topic might mint </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="1.56" y="180.13599">tokens representing their future </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="51.064" y="198.58398">labor in that field.</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="28.824" y="235.03198">Lenders, including both </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="13.128" y="253.47998">industry experts and people </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="1.712" y="271.92798">close to that person could then </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="12.232" y="290.37598">evaluate the education plan, </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="8.224" y="308.82397">and the field, and the person, </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="9.568" y="327.27197">and each invest according to </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="14.76" y="345.71997">their own faith in that plan’s </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="29.424" y="364.16797">probability to result in a </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="36.088" y="382.61597">valuable future token.</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".232" y="419.06396">This token would operate much </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="27.344" y="437.51196">like a prediction market, </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7.048" y="455.95996">estimating the probability of a </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="24.4" y="474.40796">certain earning potential.</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="21.568" y="510.85596">If a student was falling off </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="15.928" y="529.30396">track, the price might drop, </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="6.48" y="547.75195">with early investors recouping </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="36.824" y="566.19995">some amount of their </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="33.272" y="584.64795">investment, leaving an </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="1.12" y="603.09595">opportunity for tutors, mentors, </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="1.104" y="621.54395">and future employers to buy up </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="17.56" y="639.99194">the tokens at a discount to </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="29.72" y="658.43994">ensure the student was </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="72.848" y="676.8879">successful.</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="35.504" y="713.3359">If the student was not </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="18.32" y="731.7839">successful, each person is </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="2.64" y="750.2319">liable exactly for whatever they </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="47.664" y="768.6799">originally pledged.</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="14.608" y="805.1279">Since these tokens are only </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="5.128" y="823.5759">redeemable within the context </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="9.272" y="842.0239">of that field, an investor can’t </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="1.12" y="860.4719">claim to own that person’s time </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="6.296" y="878.9199">in the future if they manage to </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="3.784" y="897.3679">be successful by other means.</tspan>
+        </text>
+      </g>
+      <g id="Line_3">
+        <line x1="-260.7749" y1="2690" x2="-260.08936" y2="2716" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_275">
+        <rect x="2291" y="1748" width="249" height="102.5" fill="#ff8080"/>
+        <rect x="2291" y="1748" width="249" height="102.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2296 1768.536)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="5.2175" y="16">As a centralized project, has a </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="3.441" y="36.476">company dependent on taking </tspan>
+          <tspan font-family="Helvetica Neue" font-size="17" font-weight="400" fill="black" x="8.184" y="56.951996">a comission on every puddle.</tspan>
+        </text>
+      </g>
+      <g id="Line_276">
+        <line x1="2112.402" y1="1635.5" x2="2320.6373" y2="1748" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_279">
+        <rect x="1195" y="1525.7695" width="173" height="126.625" fill="white"/>
+        <rect x="1195" y="1525.7695" width="173" height="126.625" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1200 1535.3259)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" x="36.044" y="16">Deliberately </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" x="5.708" y="35.46411">Simplified Weighted </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" x="62.38" y="54.92822">Trust</tspan>
+          <tspan font-family="Helvetica Neue" font-size="10" font-weight="400" fill="black" x="4.63" y="68.39233">The set of parametric trust models </tspan>
+          <tspan font-family="Helvetica Neue" font-size="10" font-weight="400" fill="black" x="21.485" y="80.67233">that impose some arbitrary </tspan>
+          <tspan font-family="Helvetica Neue" font-size="10" font-weight="400" fill="black" x="4.825" y="92.95233">restrictions on participation for the </tspan>
+          <tspan font-family="Helvetica Neue" font-size="10" font-weight="400" fill="black" x="44.55" y="105.23233">sake of usability.</tspan>
+        </text>
+      </g>
+      <g id="Line_280">
+        <line x1="950" y1="1519.9416" x2="1195" y2="1571.0409" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Line_281">
+        <line x1="1368" y1="1591.18" x2="1975" y2="1605.902" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Line_282">
+        <line x1="1162" y1="3033.8603" x2="1227.1701" y2="3031.2813" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_283">
+        <line x1="1051.5" y1="3287.5668" x2="1051.5" y2="3318" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_284">
+        <line x1="950" y1="1560.2878" x2="1309.574" y2="1803" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_287">
+        <rect x="1017" y="860.4375" width="199" height="69.125" fill="#c0ffc0"/>
+        <rect x="1017" y="860.4375" width="199" height="69.125" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1022 876.552)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7.964" y="15">Curved Token Bonding / </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="32.86" y="33.448">Curation Markets</tspan>
+        </text>
+      </g>
+      <g id="Line_288">
+        <line x1="1187.7722" y1="840" x2="1161.2881" y2="860.4375" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_289">
+        <rect x="849" y="950" width="199" height="162.44922" fill="white"/>
+        <rect x="849" y="950" width="199" height="162.44922" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(854 959.7126)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="7.818" y="11">Like a Bancor connector, except </tspan>
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="23.814" y="25.336">the curve is hard-coded at </tspan>
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="3.138" y="39.671997">instantiation time to create a more </tspan>
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="10.374" y="54.007996">ownerless economy around the </tspan>
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="34.476" y="68.343994">“meme” of that cause.</tspan>
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="8.04" y="96.67999">While the creator can create any </tspan>
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="14.484" y="111.01599">curve, later buyers have hard-</tspan>
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="9.366" y="125.35199">coded guarantees about limited </tspan>
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="33.6" y="139.68799">dilution of their shares.</tspan>
+        </text>
+      </g>
+      <g id="Line_290">
+        <line x1="1073.8755" y1="929.5625" x2="1048" y2="950.544" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
